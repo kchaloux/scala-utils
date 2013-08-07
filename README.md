@@ -6,7 +6,7 @@ scala-utils is a small collection of utilities for personal projects in Scala. A
 To Build
 ========
 
-The scala-utils library is built with sbt *(version 12.14+)*. Simply clone the latest version of scala-utils from github, navigate to the project folder, and use the commands:
+The scala-utils library is built with sbt *(version 0.12._)*. Simply clone the latest version of scala-utils from github, navigate to the project folder, and use the commands:
 
     > sbt
     > compile
